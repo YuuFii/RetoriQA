@@ -62,4 +62,4 @@ As the project is currently in the experimental phase, the tech stack is subject
 * \[ \] Build a simple API via FastAPI.  
 * \[ \] (Future) Develop a simple web UI for uploading PDFs and chatting.
 
-*Developed by \[Your Name / Nico Arya Divano\]. This repository serves as a workspace for AI engineering and LLM application development.*
+*Developed by Nico Arya Divano. This repository serves as a workspace for AI engineering and LLM application development.*
